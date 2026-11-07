@@ -1,4 +1,11 @@
-# MobilitySpark
+# MobilityPySpark — ARCHIVED
+
+> **⚠️ This repository is archived and no longer maintained.**
+>
+> **The active successor is [MobilityDB/MobilitySpark](https://github.com/MobilityDB/MobilitySpark).**
+>
+> This repository holds the codebase of the 2024 master's thesis *MobilitySpark: Big Mobility Data Management with PySpark and PyMEOS*, cited below. MobilitySpark is the Spark SQL layer of the MobilityDB ecosystem: MEOS-backed UDFs and DataFrame integration for Apache Spark.
+
 ***
 Repository to extend support of MEOS and MobilityDB data types into Pyspark, and experimentation on different partition techniques for trajectory data.
 This repository was used as codebase for the thesis "MobilitySpark: Big Mobility Data Management with PySpark and PyMEOS".
